@@ -1,0 +1,5 @@
+/TestWebApp/bin/
+/TestWebApp/obj/
+/TestWebApp/TestWebApp.csproj.user
+/TestWebApp.Tests/bin/
+/TestWebApp.Tests/obj/

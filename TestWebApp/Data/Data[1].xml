@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EmployeeList>
+  <Employee>
+    <Specialization>QA</Specialization>
+    <Position>Senior</Position>
+    <Name>Jacob</Name>
+    <Salary>2500</Salary>
+    <Experience>3.5</Experience>
+    <ID>1</ID>
+  </Employee>
+  <Employee>
+    <Specialization>QA</Specialization>
+    <Position>Junior</Position>
+    <Name> Mason </Name>
+    <Salary>800</Salary>
+    <Experience>1</Experience>
+    <ID>2</ID>
+  </Employee>
+  <Employee>
+    <Specialization>Software Developer</Specialization>
+    <Position>Senior</Position>
+    <Name>William</Name>
+    <Salary>3500</Salary>
+    <Experience>4</Experience>
+    <ID>3</ID>
+  </Employee>
+  <Employee>
+    <Specialization>Software Developer</Specialization>
+    <Position>Junior</Position>
+    <Name>Olivia</Name>
+    <Salary>1000</Salary>
+    <Experience>1.5</Experience>
+    <ID>4</ID>
+  </Employee>
+  <Employee>
+    <Specialization> Manager </Specialization>
+    <Position>Regular</Position>
+    <Name>Jayden</Name>
+    <Salary>2700</Salary>
+    <Experience>3</Experience>
+    <TeamMembers>48</TeamMembers>
+    <ID>5</ID>
+  </Employee>
+</EmployeeList>
